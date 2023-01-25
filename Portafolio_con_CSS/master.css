@@ -9,4 +9,13 @@ h2{
   font-size: 37px;
   text-align: center;
   background:#900C3F  ;
+  /*padding: 10px;*/
+}
+
+h3{
+  color: #7F2455;
+  text-decoration: underline;
+}
+h4{
+  padding: 1 px inherit;
 }
